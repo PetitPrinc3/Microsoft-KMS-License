@@ -6,7 +6,7 @@
 
 # Telecharger Office
 
-Pour commencer, télécharger la suite Office 2021 Pro Plus à l'adresse suivante :
+Pour commencer, téléchargez la suite Office 2021 Pro Plus à l'adresse suivante :
 
 ```https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2021Retail.img```
 
