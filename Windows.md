@@ -1,6 +1,6 @@
 # Installer et activer Windows 11 Pro
 
-```Référence : ```
+```Référence : https://msguides.com/windows-11```
 
 # Télécharger Windows 11 Pro 
 
@@ -8,7 +8,6 @@ Téléchargez l'image de Windows 11 Pro à l'adresse suivante :
 ```https://www.microsoft.com/en-us/software-download/windows11```
 
 Une fois le fichier téléchargé, procédez à l'installation de Windows.
-Au moment de renseigner un numéro de licence faites "Activer plus tard" et terminez l'installation.
 
 # Activer Windows 11 Pro
 
