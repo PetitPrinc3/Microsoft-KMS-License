@@ -11,6 +11,8 @@ Une fois le fichier téléchargé, procédez à l'installation de Windows.
 
 # Activer Windows 11 Pro
 
+Désactivez votre antivirus. Le script que vous vous apprêtez à utiliser et détecté comme malware par les antivirus puisque vous "crackez" le système de license de Microsoft ...  
+
 Copiez le contenu du script suivant :
 ```
 @echo off
